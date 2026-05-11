@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h1 {
+    margin: 12px 0;
+    font-size: 48px;
+    text-align: center;
+}
+
+body div {
+    padding: 8px;
+    border: 2px solid black;
+    margin: 8px 0;
+    background-color: powderblue;
+}
+
+.img {
+    text-align: center;
+}
+
+body h2 {
+    text-align: center;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.ref a {
+    font-weight: 800;
+}
