@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    margin: 12px 0;
+    font-size: 48px;
+    text-align: center;
+}
+
+h2 {
+    margin: 8px 0;
+    font-size: 20px;
+}
+
+.intro {
+    padding: 8px;
+    border: 2px dotted black;
+    margin: 8px 8px 24px;
+    font-size: 16px;
+}
+
+p {
+    margin: 0;
+}
+
+.content {
+    background-color: powderblue;
+    padding: 8px 8px 100% 8px;
+    border: 2px solid;
+    margin: 8px;
+
+}
+
+button {
+    display: inline-block;
+    background-color: rgb(49, 37, 156);
+    color: white;
+    border: 2px solid black;
+    padding: 8px 24px;
+    margin: 2px;
+    cursor: pointer;
+    font-size: 16px;
+}
